@@ -21,7 +21,7 @@
 ⚡ Быстрый старт
 
 Клонируйте репозиторий:
-```
+```bash
 git clone https://github.com/RobinPlay-2025/rust-template.git
 ```
 
